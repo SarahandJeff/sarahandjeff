@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+    <ServerGroup Name="5th Day" Logo="" Description="Semi realistic approach to the game.">
+        <Server Name="5th Day" Logo="">
+            <Description>
+                    Description to come. For right now. This mod brings to life my idea how the game should be. Learn by doing and using. No skill points and no magazines.
+
+			</Description>
+           	
+           	<Version>Beta1.2</Version>
+            <EAC>Disabled</EAC>
+            <Discord></Discord>
+            <Donate></Donate>
+            <DownloadMode>Clone</DownloadMode>
+            <Downloads>
+                <Download>https://github.com/SarahandJeff/5thDay</Download>
+            </Downloads>
+
+        </Server>
+    </ServerGroup>
+</Servers>
